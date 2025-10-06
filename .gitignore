@@ -1,0 +1,13 @@
+# Entornos virtuales
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
