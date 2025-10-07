@@ -51,8 +51,8 @@ lufemage-data-lab/
 ├── .venv/
 ├── data/
 │ ├── raw_sales_data.csv # Generated raw data
-│ └── figures
-    └── sales_analysis_dashboard.png # Exported dashboard image
+│ └── figures/
+│    └── sales_analysis_dashboard.png # Exported dashboard image
 ├── notebooks/
 │ └── 01_sales_analysis.ipynb # Main analysis notebook
 ├── scripts/
@@ -121,6 +121,12 @@ The analysis revealed a clear profile of the primary customer: an urban, tech-sa
 1.  **Focus on Core Strengths:** Launch a hyper-segmented marketing campaign for the 'Electronics' category, targeting the Bogotá market as a testbed for new product offerings.
 2.  **Optimize Marketing Timing:** Align digital marketing campaigns to activate on Thursday afternoons and intensify during peak purchasing hours (2 PM - 6 PM) on weekends.
 3.  **Enhance User Experience:** Prioritize a technical audit of the credit card payment flow to ensure it is seamless, as it accounts for 50% of all transactions.
+
+### Executive Presentation
+
+For a summary of the key findings and strategic recommendations, you can view the full executive presentation prepared for stakeholders.
+
+[➡️ **View the Full Presentation (PDF)**](./docs/Lufemage_Sales_Presentation.pdf)
 
 ---
 
