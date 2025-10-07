@@ -128,6 +128,12 @@ For a summary of the key findings and strategic recommendations, you can view th
 
 [➡️ **View the Full Presentation (PDF)**](./docs/Lufemage_Sales_Presentation.pdf)
 
+### Business Intelligence (BI) Dashboard Prototype
+
+To demonstrate the integration between Python-based analysis and industry-standard BI tools, a prototype dashboard was created in **Power BI**. This visualizes one of the core findings: revenue distribution by product category. This step proves the data is ready for business-level reporting and monitoring.
+
+![Power BI Dashboard Prototype](./docs/powerbi_prototype.png)
+
 ---
 
 ## Future Improvements
