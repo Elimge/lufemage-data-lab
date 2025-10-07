@@ -138,7 +138,6 @@ To demonstrate the integration between Python-based analysis and industry-standa
 
 ## Future Improvements
 
-*   Develop an interactive dashboard using Streamlit or Dash.
 *   Apply statistical tests to validate hypotheses (e.g., A/B testing promotional strategies).
 *   Build a simple predictive model to forecast sales for the next quarter.
 
