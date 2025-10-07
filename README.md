@@ -6,6 +6,12 @@
 
 This project simulates a complete data analysis workflow for a junior data analyst role. It demonstrates the ability to handle a data project from inception to final reporting, including data generation, cleaning, analysis, insight generation, and visualization.
 
+## 🚀 Interactive Dashboard
+
+This project has been deployed as an interactive web application using Streamlit. You can explore the data and filter the results in real-time.
+
+[➡️ **View the Interactive Dashboard Live**](https://lufemage-data-exercise.streamlit.app/)
+
 ## Project Overview
 
 As a Junior Data Analyst at Lufemage Labs, I was tasked with creating a functional prototype for sales analysis. The objective was to showcase the lab's capability to transform raw data into actionable business intelligence. Since no pre-existing data was provided, this project includes a custom script to generate a realistic synthetic dataset simulating sales transactions.
